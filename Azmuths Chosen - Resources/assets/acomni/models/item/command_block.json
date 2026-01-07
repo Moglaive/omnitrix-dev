@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:block/template_command_block",
+  "textures": {
+    "back": "minecraft:block/command_block_back",
+    "front": "minecraft:block/command_block_front",
+    "side": "minecraft:block/command_block_side"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 500000
+      },
+      "model": "acomni:item/omnitrix"
+    }
+  ]
+}

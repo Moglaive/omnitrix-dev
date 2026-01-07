@@ -1,0 +1,17 @@
+{
+    "origins": [
+        "acomni:base",
+        "acomni:aliens/heatblast/heatblast-reg",
+        "acomni:aliens/heatblast/heatblast-sick",
+        "acomni:aliens/diamondhead",
+        "acomni:aliens/fourarms",
+        "acomni:aliens/ghostfreak",
+        "acomni:aliens/greymatter",
+        "acomni:aliens/ripjaws",
+        "acomni:aliens/stinkfly",
+        "acomni:aliens/upgrade",
+        "acomni:aliens/wildmutt",
+        "acomni:aliens/xlr8"
+    ],
+    "enabled": true
+}
